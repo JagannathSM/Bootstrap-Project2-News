@@ -1,3 +1,11 @@
+body{
+  background-color: black;
+}
+.container{
+  background-color: white;
+  padding: 5px 30px;
+}
+
 
 hr{
     margin: 1px;
